@@ -1,10 +1,10 @@
 # Parallelized predictive analysis of Video Game Sales
 
-The code include predictive analysis of video game sales using Support Vector Regressor, Random Forest, Gradient Booster, MLP Regressor (Neural Network) and KNN, analyzing the performance of these models, and finally evaluating the parallelization capabilities of the model with highest weighted score.
+The code includes predictive analysis of video game sales using Support Vector Regressor, Random Forest, Gradient Booster, MLP Regressor (Neural Network) and KNN, analyzing the performance of these models, and finally evaluating the parallelization capabilities of the model with highest weighted score.
 
 ## Instructions:
 
-- Run ml_model_for_game_mode.ipynb for generating game mode attribute for the missing data. (final dataset already has game mode)
+- Run combining datasets>ml_model_for_game_mode.ipynb for generating game mode attribute for the missing data. (final dataset already has game mode)
 - Open final_model.ipynb
 - Run data preprocessing section to: 
   - Read the dataset
