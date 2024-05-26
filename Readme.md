@@ -7,14 +7,14 @@ The code include predictive analysis of video game sales using Support Vector Re
 - Run ml_model_for_game_mode.ipynb for generating game mode attribute for the missing data. (final dataset already has game mode)
 - Open final_model.ipynb
 - Run data preprocessing section to: 
-- - Read the dataset
-- - Remove outliers
-- - Visualize dataset
+  - Read the dataset
+  - Remove outliers
+  - Visualize dataset
 - Run correlation of variables to see the correlation matrix
 - Run the feature engineering section which includes:
-- - Handling missing values (either by dropping or filling with median or mode)
-- - Keeping only relevant platforms
-- - Handling categorical variable by creating dummies
+  - Handling missing values (either by dropping or filling with median or mode)
+  - Keeping only relevant platforms
+  - Handling categorical variable by creating dummies
 - Run the next section to divide data into variables and target.
 - Split the data into training and testing data.
 - Run the scaling data section to scale the target variable
